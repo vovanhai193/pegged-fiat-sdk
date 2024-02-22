@@ -2,7 +2,6 @@
   "name": "pegged-fiat-sdk",
   "version": "0.2.5",
   "description": "Typescript SDK to interact with Pegged Fiat program.",
-  "license": "Apache-2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
@@ -54,5 +53,14 @@
   "files": [
     "/dist"
   ],
-  "author": "haivovan.bkit11@gmail.com"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanhai193/pegged-fiat-sdk.git"
+  },
+  "author": "haivovan.bkit11@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanhai193/pegged-fiat-sdk/issues"
+  },
+  "homepage": "https://github.com/vovanhai193/pegged-fiat-sdk#readme"
 }
